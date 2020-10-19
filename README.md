@@ -1,9 +1,13 @@
 ### Hi, I'm Shawnae 👩🏽‍💻
 
  <img src="https://github.com/soxinmypocket/soxinmypocket/blob/main/GithubBanner.png" alt="banner that says Shawnae Johnson" > 
-<!--
-**soxinmypocket/soxinmypocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+- 🙎🏽‍♀️ Pronouns: She/Her 
+- 🔭 I’m currently working on finishing up my last project SimiChat🤖
+- ⚡ Fun fact: I ❤️ discovering new music from around the world 🌍
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
