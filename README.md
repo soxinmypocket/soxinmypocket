@@ -1,6 +1,6 @@
 ### Hi, I'm Shawnae 👩🏽‍💻
 
-<!-- <img src="https://github.com/soxinmypocket/soxinmypocket/blob/main/GithubBanner.png" alt="banner that says Shawnae Johnson" > -->
+ <img src="https://github.com/soxinmypocket/soxinmypocket/blob/main/GithubBanner.png" alt="banner that says Shawnae Johnson" > 
 <!--
 **soxinmypocket/soxinmypocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
