@@ -15,7 +15,7 @@
 💻 I’m currently finishing up my last project SimiChat🤖 <br/>
 ⚡ Fun fact: I ❤️ discovering new music from around the World 🌍 <br/>
 
-💬  Feel free to ask me about anything!  <br/>
+💬  Feel free to ask me about anything 🙂  <br/>
 
 
 <!--
