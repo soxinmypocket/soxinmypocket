@@ -11,7 +11,7 @@
   <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 </p>
 
-🙎🏽‍♀️ Pronouns: She/Her <br/>
+🙎🏽‍♀️ Pronouns: She/Her<br/>
 💻 I’m currently finishing up my last project SimiChat🤖 <br/>
 ⚡ Fun fact: I ❤️ discovering new music from around the World 🌍 <br/>
 
